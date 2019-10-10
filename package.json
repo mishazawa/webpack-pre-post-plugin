@@ -1,6 +1,6 @@
 {
   "name": "webpack-pre-post-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Execute shell commands on each compilation (before and after).",
   "main": "src/index.js",
   "scripts": {
